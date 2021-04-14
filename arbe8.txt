@@ -1,0 +1,12 @@
+Préfixe 237 111 93 141 128 291 275 263 347 311 309 326 377
+
+Postfixe 93 128 141 111 263 275 309 326 311 377 347 291 237 
+
+Infixe 93 111 128 141 237 263 275 291 309 311 326 347 377 
+
+taille 13
+
+hauteur 4 
+longeur cheminement interne 0*1 1*2 2*3 3*1 = 11
+longueur cheminement externe 0*0 1*0 2*1 3*3 4*2 =  19
+longueur de cheminement = 30
